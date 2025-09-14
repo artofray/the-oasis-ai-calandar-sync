@@ -1,0 +1,7 @@
+{
+  "name": "Copy of The Quantum Oasis",
+  "description": "A serene and smart desktop dashboard that unifies your schedule, tasks, and communications. Features an animated logo, ambient sounds, multiple calendar views (month, week, day), a daily positive affirmation, a to-do list, and AI-powered natural language commands with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
